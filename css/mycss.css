@@ -1,4 +1,10 @@
+
+/*HTML元素*/
 body{
     background-color: lightslategrey;
-    font-size: large;
+    font-size: 0.75rem;
+}
+/* CLASS */
+.req-cls{
+    background-color: #ffc4b0;
 }
