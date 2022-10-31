@@ -1,7 +1,7 @@
 
 /*HTML元素*/
 body{
-    background-color: lightslategrey;
+    background-color: #b2c0ce;
     font-size: 0.75rem;
 }
 
@@ -9,8 +9,11 @@ body{
 .req-cls{
     background-color: #ffc4b0;
 }
+.cls{
+    background-color: #ffa789;
+}
 
 /* ID */
 #hate{
-    color: brown;
+    color: #8c0c0c;
 }
