@@ -4,7 +4,13 @@ body{
     background-color: lightslategrey;
     font-size: 0.75rem;
 }
+
 /* CLASS */
 .req-cls{
     background-color: #ffc4b0;
+}
+
+/* ID */
+#hate{
+    color: brown;
 }
